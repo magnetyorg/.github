@@ -8,7 +8,7 @@ En Magnety, nos dedicamos a construir herramientas tecnológicas que ayudan a la
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres ponerte en contacto con nosotros, no dudes en enviarnos un correo electrónico a contact@magnety.org.
+Si tienes alguna pregunta, sugerencia o simplemente quieres ponerte en contacto con nosotros, no dudes en enviarnos un correo electrónico a magnetysoftware@gmail.com.
 
 ¡Gracias por tu interés en Magnety!
 
